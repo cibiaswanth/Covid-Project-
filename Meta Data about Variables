@@ -1,0 +1,26 @@
+Dwelling theme:
+Shared Dwelling – This is a variable which holds the data of shared accommodations in england and which comes under the dwelling theme.
+Un-Shared Dwelling – This is a variable which holds the data of unshared accommodations in england and which comes under the dwelling theme.
+Total Dwelling  - This is a variable which holds the data of shared and unshared accommodations populations in england and which is used for proportion of dwelling theme.
+
+Age Theme:
+Young Age -  This is a variable which holds the data of youth population of england from the age category of 18 to 30.
+Middle Age – This is a variable which holds the data of middle age population of england from the age category of 31 to 54.
+Old age – This is a variable which holds the data of old age population of england from the age category of 55 to 75.
+Total age  - This is a variable which holds sum of  young age, middle age, old age  populations data in england and which is used for proportion of age theme.
+
+Health Theme:
+Good Health – This is a variable which holds the data of general good health conditions of peoples or population of england.
+Bad Health – This is a variable which holds the data of general bad health conditions of peoples or population  of england.
+Total health  - This is a variable which holds sum of  good health and bad health  populations data in england and which is used for proportion of health theme.
+
+Economical theme:
+Part time -This is a variable which holds  the data of part time workers population in different cities of england.
+Full time -  This is a variable which holds  the data of full-time workers population in different cities of england.
+Economically active – This is a variable which holds the data of permanent employee and contract employee and unemployed.
+Economically Inactive – This is a variable which holds the data of engaged in family duties , attendant to educational institutions , retired.
+Total eco  - This is a variable which holds sum of  part time ,full time, economically active, economically inactive  populations data in england and which is used for proportion of economical  theme.
+
+Area names – This is a variable which  holds the area or 326 city names in england. 
+Deaths – This is a variable which holds the data of death counts of different cities in the england.
+Total population –  This is a variable which holds sum of total dwelling, total age, total health, total eco because to calculate the proportion for total deaths in the england population.
