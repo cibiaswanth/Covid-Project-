@@ -1,4 +1,4 @@
-# QDA
+
 COVID-19 Data Analysis and Visualization:
 This repository contains code for analyzing and visualizing COVID-19 data focusing on England's boroughs, covering various themes such as dwelling, health, economics, and age factors.
 
